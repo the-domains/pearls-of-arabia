@@ -1,4 +1,3 @@
-layout_spectrum: 0.033379427157342434
 typography_spectrum: 0.8391631238628179
 color:
   brandStrength: 0.011765229282900691
@@ -11,4 +10,6 @@ color:
     - '#A8AD80'
     - '#E6D4A7'
     - '#825534'
+layout_spectrum: 0.033379427157342434
 name: Pearls of Arabia
+title: Pearls of Arabia
